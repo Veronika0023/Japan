@@ -8,7 +8,7 @@
 
 //! Be sure to change your password!
 // Login
-$GLOBALS['admin_name'] = 'admin';
+$GLOBALS['admin_name'] = 'vero';
 
 // Password
 $GLOBALS['admin_password'] = '12345';
